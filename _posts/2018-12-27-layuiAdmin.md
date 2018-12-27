@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      layuiAdmin下载
+title:      layuiAdmin
 subtitle:   layuiAdmin下载
 date:       2018-12-27
 author:     任先森
@@ -9,7 +9,7 @@ catalog: true
 tags:
     - layui
 ---
-# 测试markdown
+> 仅限用于学习/交流，禁止用于商业用途（请购买正版 [layuiAdmin](https://www.layui.com/)）
 
 ```java
 package com.market.console.layui;
