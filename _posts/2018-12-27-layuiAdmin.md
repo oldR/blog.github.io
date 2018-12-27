@@ -4,7 +4,7 @@ title:      layuiAdmin
 subtitle:   layuiAdmin下载
 date:       2018-12-27
 author:     任先森
-header-img: img/post-bg-hacker.jpg
+header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
     - layui
